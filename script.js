@@ -1,4 +1,4 @@
-const createBtn = document.getElementById('criar-carta')
+const createBtn = document.getElementById('criar-carta') 
 const theLetter = document.getElementById('carta-gerada')
 function createLetter() {
     const letterValue = document.getElementById('carta-texto').value
